@@ -1,4 +1,3 @@
-import React from "react";
 import RemoveButton from "../RemoveButton";
 import { ItemProps } from "../../interfaces";
 

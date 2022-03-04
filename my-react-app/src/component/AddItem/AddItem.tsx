@@ -1,5 +1,3 @@
-import React from "react";
-import { ItemProps } from "../../interfaces";
 import PlusIcon from "./plus.svg";
 
 interface AddItemProp {
